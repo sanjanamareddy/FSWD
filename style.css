@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+label{
+    display:inline-block;
+    width:70px;
+    margin-right:20px;
+    text-align:right;
+}
+a {
+    color: blue;
+}
+.b1 {
+    
+        width: 90px;
+        height: 40px;
+        position: relative;
+        font-family: var(--font);
+        color: #142033;
+        font-weight: 600;
+        background-color: #b1b0b7;
+        border: none;
+        overflow: hidden;
+        border-radius: 5px;
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+        transition: all ease 100ms;
+      
+}
